@@ -1,5 +1,13 @@
 # Academia da Direção Hidráulica
 
-Protótipo navegável do portal da Oficina Eficiente.
+Portal visual de cursos da Oficina Eficiente.
 
-Site estático: index.html, style.css, app.js e assets/. Login, pagamento Eduzz e vídeos ainda não estão integrados. Progresso e favoritos são demonstrativos e ficam no navegador.
+Abra index.html com um servidor estático. Os arquivos ficam na raiz para facilitar a hospedagem.
+
+## Estado atual
+
+Catálogo, busca, filtros, favoritos e progresso demonstrativo local. Login, assinatura Eduzz e videoaulas não estão integrados. As trilhas de aula são demonstrativas.
+
+## Capas
+
+Imagens de carros geradas por IA em estilo fotográfico, padronizadas em oficina escura com iluminação azul e dourada. Sem preços ou textos nas imagens. Prompts: Palio primeira geração, Gol G5, Monza Tubarão 1994, Corsa Wind 1998 e S10 2011, em vista frontal de três quartos.
